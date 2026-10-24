@@ -1,7 +1,10 @@
-Copyright (C) 2026 protekti - All Rights Reserved
+Copyright (c) 2026 protekti. All Rights Reserved.
 
-Last updated: 25/10/2026 (DD/MM/YYYY).
+Last updated: 25/10/2026
 
-Unauthorized copying, modification, distribution, or utilization of these files, 
-via any medium, is strictly prohibited without the express written permission 
-of protekti (nikodem.kotwicki@protekti.xyz).
+Unauthorized copying, modification, distribution, sublicensing, or utilization of 
+these files, via any medium or for use in any project/application other than 24SKY, 
+is strictly prohibited without the express prior written permission of protekti.
+
+For permission requests or inquiries, please contact:
+nikodem.kotwicki@protekti.xyz
