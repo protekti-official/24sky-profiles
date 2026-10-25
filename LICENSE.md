@@ -12,7 +12,7 @@ b) MODIFICATION & DERIVATIVE WORKS: Modify, adapt, translate, reverse-engineer, 
 c) AUTOMATED ACCESS & SCRAPING: Scrape, crawl, index, harvest, parse, or extract data from this repository or its file endpoints using automated scripts, bots, web crawlers, data bridges, or automated platform tools.
 d) THIRD-PARTY SOFTWARE INTEGRATION & BRANDING: Bridge, embed, parse, or incorporate 24SKY files or data endpoints into external software platforms, aggregators, or third-party distribution hubs without express prior written consent from 24SKY. Furthermore, unauthorized use of 24SKY trademarks, project names, or brand assets to market, promote, or direct users toward third-party integrations is strictly prohibited.
 
-3. UNAUTHORIZED SOFTWARE & SAFETY WARNING
+4. UNAUTHORIZED SOFTWARE & SAFETY WARNING
 NOTICE: 24SKY sector files and custom profiles are specifically engineered, calibrated, and tested strictly for use with official, authorized 24SKY releases. 
 
 Utilizing 24SKY files, data, or profiles with unauthorized third-party tools, data bridges, or modified client software is inherently dangerous to client stability, network performance, and controller radar data accuracy. 24SKY strictly advises against and disclaims all endorsement or recommendation of any such unauthorized usage. 24SKY accepts zero liability for crashes, data corruption, network disconnects, or operational errors resulting from unauthorized software integration.
